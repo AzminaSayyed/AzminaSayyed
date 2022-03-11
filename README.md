@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AzminaSayyed
+- 👀 I’m interested in data analysis using various tools
+- 🌱 I’m currently learning Data Analytics
+- 📫 Reach me @ azmina.sayyed@hotmail.com
